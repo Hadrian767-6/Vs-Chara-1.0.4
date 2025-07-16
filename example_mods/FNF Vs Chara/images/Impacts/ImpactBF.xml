@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ImpactBF.png">
+<SubTexture name="ImpactBF idle0000" x="0" y="37" width="23" height="33" frameX="-37" frameY="-36" frameWidth="85" frameHeight="78" />
+<SubTexture name="ImpactBF idle0001" x="23" y="37" width="24" height="33" frameX="-37" frameY="-36" frameWidth="85" frameHeight="78" />
+<SubTexture name="ImpactBF idle0002" x="28" y="0" width="26" height="34" frameX="-36" frameY="-36" frameWidth="85" frameHeight="78" />
+<SubTexture name="ImpactBF idle0003" x="54" y="0" width="27" height="34" frameX="-35" frameY="-36" frameWidth="85" frameHeight="78" />
+<SubTexture name="ImpactBF idle0004" x="0" y="0" width="28" height="37" frameX="-35" frameY="-34" frameWidth="85" frameHeight="78" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+{
+	"name": "VS Chara knife fight",
+	"description": "a fight against ",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [130, 0, 0],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

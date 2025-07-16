@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="slice.png" width="32" height="105">
+	<SubTexture name="slice0000" x="25" y="28" width="6" height="8" frameX="-11" frameY="-5" frameWidth="26" frameHeight="110"/>
+	<SubTexture name="slice0001" x="25" y="1" width="6" height="24" frameX="-9" frameY="-9" frameWidth="26" frameHeight="110"/>
+	<SubTexture name="slice0002" x="14" y="1" width="8" height="44" frameX="-7" frameY="-21" frameWidth="26" frameHeight="110"/>
+	<SubTexture name="slice0003" x="1" y="1" width="10" height="66" frameX="-7" frameY="-29" frameWidth="26" frameHeight="110"/>
+	<SubTexture name="slice0004" x="1" y="70" width="16" height="34" frameX="-7" frameY="-63" frameWidth="26" frameHeight="110"/>
+	<SubTexture name="slice0005" x="14" y="48" width="16" height="14" frameX="-9" frameY="-87" frameWidth="26" frameHeight="110"/>
+</TextureAtlas>

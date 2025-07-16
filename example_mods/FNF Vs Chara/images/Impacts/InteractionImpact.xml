@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="InteractionImpact.png">
+<SubTexture name="InteractionImpact idle0000" x="0" y="21" width="13" height="13" frameX="-30" frameY="-52" frameWidth="85" frameHeight="78" />
+<SubTexture name="InteractionImpact idle0001" x="19" y="0" width="16" height="17" frameX="-27" frameY="-50" frameWidth="85" frameHeight="78" />
+<SubTexture name="InteractionImpact idle0002" x="0" y="0" width="19" height="21" frameX="-26" frameY="-48" frameWidth="85" frameHeight="78" />
+<SubTexture name="InteractionImpact idle0003" x="0" y="0" width="19" height="21" frameX="-26" frameY="-48" frameWidth="85" frameHeight="78" />
+</TextureAtlas>

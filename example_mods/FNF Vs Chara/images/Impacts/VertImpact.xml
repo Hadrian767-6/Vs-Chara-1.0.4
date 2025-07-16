@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VertImpact.png">
+<SubTexture name="VertImpact idle0000" x="30" y="0" width="11" height="20" frameX="-33" frameY="-47" frameWidth="85" frameHeight="78" />
+<SubTexture name="VertImpact idle0001" x="16" y="0" width="14" height="25" frameX="-31" frameY="-44" frameWidth="85" frameHeight="78" />
+<SubTexture name="VertImpact idle0002" x="0" y="0" width="16" height="27" frameX="-30" frameY="-42" frameWidth="85" frameHeight="78" />
+<SubTexture name="VertImpact idle0003" x="0" y="0" width="16" height="27" frameX="-30" frameY="-42" frameWidth="85" frameHeight="78" />
+</TextureAtlas>

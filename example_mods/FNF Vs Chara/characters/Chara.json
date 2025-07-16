@@ -1,0 +1,575 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Chara idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Chara left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chara down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chara up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chara right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hurtDOWN",
+			"fps": 16,
+			"name": "Chara hurt d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hurtUP",
+			"fps": 16,
+			"name": "Chara hurt u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-DodgeDOWN",
+			"fps": 16,
+			"name": "Chara alt dodge d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeLEFT",
+			"fps": 16,
+			"name": "Chara dodge l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeDOWN",
+			"fps": 16,
+			"name": "Chara dodge d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeUP",
+			"fps": 16,
+			"name": "Chara dodge u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeJUMP",
+			"fps": 16,
+			"name": "Chara dodge jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Enough",
+			"fps": 16,
+			"name": "Chara pissed off",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "FIGHT",
+			"fps": 24,
+			"name": "Chara fight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "ITEM",
+			"fps": 24,
+			"name": "Chara item",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "ACT",
+			"fps": 24,
+			"name": "Chara act",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "END",
+			"fps": 8,
+			"name": "Chara end",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackLEFT",
+			"fps": 20,
+			"name": "Chara attack l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackDOWN",
+			"fps": 20,
+			"name": "Chara attack d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackUP",
+			"fps": 20,
+			"name": "Chara attack u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackRIGHT",
+			"fps": 20,
+			"name": "Chara attack r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "airAttackLEFT",
+			"fps": 20,
+			"name": "Chara air l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "airAttackDOWN",
+			"fps": 20,
+			"name": "Chara air d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "airAttackUP",
+			"fps": 20,
+			"name": "Chara air u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "airAttackRIGHT",
+			"fps": 20,
+			"name": "Chara air r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "jumpAttackDOWN",
+			"fps": 20,
+			"name": "Chara j attack d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "jumpAttackUP",
+			"fps": 20,
+			"name": "Chara j attack u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "LOAD",
+			"fps": 12,
+			"name": "Chara load",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "CLASH",
+			"fps": 20,
+			"name": "Chara clash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DASH",
+			"fps": 20,
+			"name": "Chara dash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "block",
+			"fps": 20,
+			"name": "Chara block",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "THROW",
+			"fps": 12,
+			"name": "Chara knife throw",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "Chara alt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-singLEFT",
+			"fps": 24,
+			"name": "Chara alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-singDOWN",
+			"fps": 24,
+			"name": "Chara alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-singUP",
+			"fps": 24,
+			"name": "Chara alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-singRIGHT",
+			"fps": 24,
+			"name": "Chara alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-attackLEFT",
+			"fps": 20,
+			"name": "Chara alt attack l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-attackDOWN",
+			"fps": 20,
+			"name": "Chara alt attack d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-attackUP",
+			"fps": 20,
+			"name": "Chara alt attack u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-attackRIGHT",
+			"fps": 20,
+			"name": "Chara alt attack r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-airAttackLEFT",
+			"fps": 20,
+			"name": "Chara alt air l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-airAttackDOWN",
+			"fps": 20,
+			"name": "Chara alt air d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-airAttackUP",
+			"fps": 20,
+			"name": "Chara alt air u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-airAttackRIGHT",
+			"fps": 20,
+			"name": "Chara alt air r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-jumpAttackDOWN",
+			"fps": 20,
+			"name": "Chara alt j attack d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "alt-jumpAttackUP",
+			"fps": 20,
+			"name": "Chara alt j attack u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-CLASH",
+			"fps": 20,
+			"name": "Chara alt clash",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "walk",
+			"fps": 8,
+			"name": "Chara walk",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "alt-DASH",
+			"loop": false,
+			"name": "Chara alt dash"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Chara",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-Chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-250,
+		70
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 3,
+	"_editor_isPlayer": false
+}

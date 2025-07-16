@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF.png">
+<SubTexture name="BF idle0000" x="0" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF idle0001" x="85" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF idle0002" x="0" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF idle0003" x="0" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF left0000" x="85" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF left0001" x="85" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF left0002" x="170" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF left0003" x="170" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF down0000" x="170" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF down0001" x="170" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF down0002" x="0" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF down0003" x="0" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF up0000" x="85" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF up0001" x="85" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF up0002" x="170" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF up0003" x="170" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF right0000" x="255" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF right0001" x="255" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF right0002" x="255" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF right0003" x="255" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss l0000" x="255" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss l0001" x="255" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss l0002" x="0" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss l0003" x="0" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss d0000" x="85" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss d0001" x="85" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss d0002" x="170" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss d0003" x="170" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss u0000" x="255" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss u0001" x="255" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss u0002" x="340" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss u0003" x="340" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss r0000" x="340" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss r0001" x="340" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss r0002" x="340" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF miss r0003" x="340" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0000" x="340" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0001" x="0" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0002" x="0" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0003" x="85" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0004" x="85" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0005" x="0" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0006" x="0" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF hurt0007" x="170" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge d0000" x="255" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge d0001" x="340" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge d0002" x="425" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge d0003" x="425" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge u0000" x="425" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge u0001" x="425" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge u0002" x="425" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge u0003" x="425" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge r0000" x="425" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge r0001" x="0" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge r0002" x="85" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge r0003" x="170" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge jump0000" x="255" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge jump0001" x="340" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge jump0002" x="425" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF sing dodge jump0003" x="510" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge d0000" x="510" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge d0001" x="510" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge d0002" x="425" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge d0003" x="425" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge u0000" x="510" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge u0001" x="510" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge u0002" x="510" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge u0003" x="425" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge r0000" x="510" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge r0001" x="0" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge r0002" x="85" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge r0003" x="170" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge jump0000" x="85" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge jump0001" x="340" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge jump0002" x="425" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF dodge jump0003" x="510" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife down0000" x="170" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife down0001" x="255" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife down0002" x="340" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife down0003" x="425" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0000" x="510" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0001" x="595" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0002" x="595" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0003" x="595" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0004" x="595" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0005" x="595" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0006" x="595" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0007" x="595" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0008" x="595" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0009" x="0" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0010" x="0" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF ECHO0011" x="85" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack l0000" x="170" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack l0001" x="255" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack l0002" x="340" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack l0003" x="425" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack d0000" x="510" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack d0001" x="595" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack d0002" x="680" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack d0003" x="680" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack u0000" x="680" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack u0001" x="680" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack u0002" x="680" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack u0003" x="680" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack right0000" x="680" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack right0001" x="680" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack right0002" x="0" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF attack right0003" x="85" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF clash0000" x="170" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF clash0001" x="255" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF clash0002" x="170" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF clash0003" x="255" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0000" x="340" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0001" x="340" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0002" x="340" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0003" x="340" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0004" x="425" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0005" x="510" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0006" x="595" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife throw0007" x="85" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0000" x="680" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0001" x="765" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0002" x="765" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0003" x="765" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0004" x="765" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0005" x="765" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0006" x="765" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt knife throw0007" x="340" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack jump0000" x="765" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack jump0001" x="765" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack jump0002" x="765" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack jump0003" x="0" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack d0000" x="85" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack d0001" x="170" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack d0002" x="255" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack d0003" x="340" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0000" x="425" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0001" x="510" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0002" x="595" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0003" x="680" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0004" x="765" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0005" x="850" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0006" x="850" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF alt attack u0007" x="850" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF DASH0000" x="850" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF DASH0001" x="850" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF DASH0002" x="850" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF DASH0003" x="850" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF Block0000" x="850" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF Block0001" x="850" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF Block0002" x="850" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF Block0003" x="850" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0000" x="850" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0001" x="0" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0002" x="0" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0003" x="85" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0004" x="85" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0005" x="0" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0006" x="0" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife hurt0007" x="85" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge d0000" x="170" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge d0001" x="255" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge d0002" x="340" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge d0003" x="340" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge u0000" x="425" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge u0001" x="510" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge u0002" x="510" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge u0003" x="595" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge r0000" x="680" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge r0001" x="765" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge r0002" x="850" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge r0003" x="935" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge jump0000" x="935" y="78" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge jump0001" x="935" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge jump0002" x="935" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife sing dodge jump0003" x="935" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge d0000" x="935" y="390" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge d0001" x="935" y="468" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge d0002" x="340" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge d0003" x="340" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge u0000" x="935" y="546" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge u0001" x="935" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge u0002" x="935" y="624" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge u0003" x="595" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge r0000" x="935" y="702" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge r0001" x="935" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge r0002" x="850" y="780" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge r0003" x="935" y="0" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge jump0000" x="0" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge jump0001" x="935" y="156" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge jump0002" x="935" y="234" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF knife dodge jump0003" x="935" y="312" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0000" x="85" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0001" x="170" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0002" x="255" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0003" x="170" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0004" x="340" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0005" x="340" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0006" x="425" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0007" x="510" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0008" x="595" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0009" x="595" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0010" x="595" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF chained0011" x="595" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0000" x="680" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0001" x="765" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0002" x="850" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0003" x="935" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0004" x="0" y="936" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0005" x="85" y="936" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF end0006" x="595" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+<SubTexture name="BF standing0000" x="595" y="858" width="85" height="78" frameX="0" frameY="0" frameWidth="85" frameHeight="78" />
+</TextureAtlas>

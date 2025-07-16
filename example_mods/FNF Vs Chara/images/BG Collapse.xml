@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BG.png">
+<SubTexture name="BG idle0000" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0001" x="205" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0002" x="410" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0003" x="0" y="239" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0004" x="205" y="239" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0005" x="410" y="239" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0006" x="615" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0007" x="615" y="239" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0008" x="0" y="478" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0009" x="205" y="478" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0010" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0011" x="410" y="478" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0012" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0013" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0014" x="615" y="478" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0015" x="820" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0016" x="820" y="239" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0017" x="820" y="478" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0018" x="0" y="717" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0019" x="205" y="717" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0020" x="410" y="717" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0021" x="615" y="717" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0022" x="820" y="717" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0023" x="1025" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0024" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0025" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0026" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+<SubTexture name="BG idle0027" x="0" y="0" width="205" height="239" frameX="0" frameY="0" frameWidth="205" frameHeight="239" />
+</TextureAtlas>

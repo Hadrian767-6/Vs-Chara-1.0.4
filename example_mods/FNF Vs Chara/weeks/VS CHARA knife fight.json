@@ -1,0 +1,26 @@
+{
+	"storyName": "VS CHARA knife fight",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bitch",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"VS Chara",
+			"icon-Chara",
+			[
+				120,
+				120,
+				255
+			]
+		]
+	],
+	"weekName": "Greetings Partner"
+}

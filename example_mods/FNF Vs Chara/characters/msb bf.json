@@ -1,0 +1,509 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "HURT",
+			"fps": 16,
+			"name": "BF hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDodgeDOWN",
+			"fps": 16,
+			"name": "BF sing dodge d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDodgeUP",
+			"fps": 16,
+			"name": "BF sing dodge u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDodgeRIGHT",
+			"fps": 16,
+			"name": "BF sing dodge r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDodgeJUMP",
+			"fps": 20,
+			"name": "BF sing dodge jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeDOWN",
+			"fps": 16,
+			"name": "BF dodge d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeUP",
+			"fps": 16,
+			"name": "BF dodge u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeRIGHT",
+			"fps": 16,
+			"name": "BF dodge r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DodgeJUMP",
+			"fps": 20,
+			"name": "BF dodge jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "transition sing",
+			"fps": 16,
+			"name": "BF knife down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "ECHO",
+			"fps": 20,
+			"name": "BF ECHO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackLEFT",
+			"fps": 20,
+			"name": "BF attack l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackDOWN",
+			"fps": 20,
+			"name": "BF attack d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackUP",
+			"fps": 20,
+			"name": "BF attack u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attackRIGHT",
+			"fps": 20,
+			"name": "BF attack r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "CLASH",
+			"fps": 24,
+			"name": "BF clash",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "THROW",
+			"fps": 24,
+			"name": "BF knife throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-THROW",
+			"fps": 24,
+			"name": "BF alt knife throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "alt-attackJUMP",
+			"fps": 24,
+			"name": "BF alt attack jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "alt-attackDOWN",
+			"fps": 24,
+			"name": "BF alt attack d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "alt-attackUP",
+			"fps": 24,
+			"name": "BF alt attack u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DASH",
+			"fps": 24,
+			"name": "BF DASH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "block",
+			"fps": 24,
+			"name": "BF Block",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-HURT",
+			"fps": 16,
+			"name": "BF knife hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-singDodgeDOWN",
+			"fps": 16,
+			"name": "BF knife sing dodge d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-singDodgeUP",
+			"fps": 16,
+			"name": "BF knife sing dodge u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-singDodgeRIGHT",
+			"fps": 16,
+			"name": "BF knife sing dodge r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-singDodgeJUMP",
+			"fps": 16,
+			"name": "BF knife sing dodge jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-DodgeDOWN",
+			"fps": 16,
+			"name": "BF knife dodge d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-DodgeUP",
+			"fps": 16,
+			"name": "BF knife dodge u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-DodgeRIGHT",
+			"fps": 16,
+			"name": "BF knife dodge r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Echo-DodgeJUMP",
+			"fps": 20,
+			"name": "BF knife dodge jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "CHAINED",
+			"fps": 12,
+			"name": "BF chained",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "END",
+			"fps": 12,
+			"name": "BF end",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "STAND",
+			"fps": 20,
+			"name": "BF standing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 20,
+			"name": "BF miss l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 20,
+			"name": "BF miss d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 20,
+			"name": "BF miss u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 20,
+			"name": "BF miss r",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/BF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		41,
+		241,
+		255
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 3,
+	"_editor_isPlayer": true
+}
